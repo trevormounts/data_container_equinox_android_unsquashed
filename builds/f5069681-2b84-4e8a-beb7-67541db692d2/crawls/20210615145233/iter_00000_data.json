@@ -1,0 +1,16 @@
+{
+    "desiredCaps": {
+        "app": "http://localhost:5000/api/v2/apps/ce3b88ac-324d-459e-8edd-0fbbdc5b0010/builds/f5069681-2b84-4e8a-beb7-67541db692d2/download?ext=.apk", 
+        "appPackage": "com.variis.mobile.qa", 
+        "autoAcceptAlerts": true, 
+        "deviceName": "Android Emulator", 
+        "newCommandTimeout": 100, 
+        "platformName": "Android", 
+        "platformVersion": "7.0"
+    }, 
+    "deviceFriendlyName": "Nexus 5", 
+    "deviceHeight": 2280, 
+    "deviceWidth": 1080, 
+    "hostPlatformRelease": "20.4.0", 
+    "hostPlatformSystem": "Darwin"
+}

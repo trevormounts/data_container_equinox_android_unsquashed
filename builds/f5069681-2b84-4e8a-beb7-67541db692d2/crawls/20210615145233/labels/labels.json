@@ -1,0 +1,43 @@
+{
+    "elems": {
+        "iter_00000_step_00001_31_android.widget.TextView.png": [
+            "btn_sign_in_variis"
+        ], 
+        "iter_00000_step_00003_55_android.widget.TextView.png": [
+            "btn_sign_in"
+        ], 
+        "iter_00000_step_00006_22_android.widget.Button.png": [
+            "icn_profile"
+        ], 
+        "iter_00000_step_00014_105_android.widget.TextView.png": [
+            "inp_last_name"
+        ], 
+        "iter_00000_step_00015_82_android.widget.TextView.png": [
+            "inp_first_name"
+        ], 
+        "iter_00000_step_00019_121_android.view.ViewGroup.png": [
+            "btn_save_and_continue"
+        ], 
+        "iter_00000_step_00019_24_android.widget.TextView.png": [], 
+        "iter_00000_step_00019_84_android.widget.TextView.png": [
+            "icn_edit_name"
+        ], 
+        "iter_00000_step_00028_117_android.view.ViewGroup.png": [
+            "btn_cancel"
+        ], 
+        "iter_00000_step_00030_102_android.widget.TextView.png": [
+            "ddl_weight"
+        ], 
+        "iter_00000_step_00030_77_android.view.ViewGroup.png": [
+            "btn_return_to_home"
+        ], 
+        "iter_00000_step_00030_84_android.widget.TextView.png": [
+            "btn_edit_profile"
+        ], 
+        "iter_00000_step_00041_103_android.widget.TextView.png": [], 
+        "iter_00000_step_00041_60_android.view.ViewGroup.png": [
+            "tmb_power_punch"
+        ]
+    }, 
+    "screens": {}
+}

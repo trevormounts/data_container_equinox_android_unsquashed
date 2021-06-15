@@ -1,0 +1,35 @@
+{
+    "elems": {
+        "iter_00000_step_00009_27_android.view.ViewGroup.png": [
+            "tab_live"
+        ], 
+        "iter_00000_step_00014_52_android.view.ViewGroup.png": [
+            "icn_for_you"
+        ], 
+        "iter_00000_step_00014_64_android.view.ViewGroup.png": [
+            "icn_activity"
+        ], 
+        "iter_00000_step_00015_24_android.widget.Button.png": [
+            "icn_profile"
+        ], 
+        "iter_00000_step_00015_27_android.view.ViewGroup.png": [
+            "icn_activity"
+        ], 
+        "iter_00000_step_00015_28_android.widget.ImageView.png": [], 
+        "iter_00000_step_00015_58_android.view.ViewGroup.png": [
+            "icn_for_you"
+        ], 
+        "iter_00000_step_00015_59_android.widget.TextView.png": [], 
+        "iter_00000_step_00015_62_android.view.ViewGroup.png": [
+            "icn_explore"
+        ], 
+        "iter_00000_step_00015_63_android.widget.TextView.png": [], 
+        "iter_00000_step_00015_66_android.view.ViewGroup.png": [
+            "icn_schedule"
+        ], 
+        "iter_00000_step_00015_70_android.view.ViewGroup.png": [
+            "icn_activity"
+        ]
+    }, 
+    "screens": {}
+}

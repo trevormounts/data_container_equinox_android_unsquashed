@@ -1,0 +1,16 @@
+{
+    "app_id": "ce3b88ac-324d-459e-8edd-0fbbdc5b0010", 
+    "effective_num_tests": 0, 
+    "eyes_api_key": null, 
+    "is_interactive": true, 
+    "is_noop": false, 
+    "is_test": false, 
+    "max_iterations": 1, 
+    "max_steps": 150, 
+    "num_iterations": 1, 
+    "package": "com.variis.mobile.qa", 
+    "platform": "ANDROID", 
+    "rand_seed": 1623782030, 
+    "real_app_id": "ce3b88ac-324d-459e-8edd-0fbbdc5b0010", 
+    "test_wildcard": "*"
+}

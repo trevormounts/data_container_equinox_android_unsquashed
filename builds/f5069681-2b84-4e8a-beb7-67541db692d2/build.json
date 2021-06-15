@@ -1,0 +1,9 @@
+{
+    "_id": "f5069681-2b84-4e8a-beb7-67541db692d2", 
+    "app": "/Users/bot/test_ai/apps/ce3b88ac-324d-459e-8edd-0fbbdc5b0010/builds/f5069681-2b84-4e8a-beb7-67541db692d2/app/com.variis.mobile.qa-1.apk", 
+    "app_id": "ce3b88ac-324d-459e-8edd-0fbbdc5b0010", 
+    "created": "2021-06-15 18:52:31.560867", 
+    "package": "com.variis.mobile.qa", 
+    "platform": "android", 
+    "version": "1"
+}
